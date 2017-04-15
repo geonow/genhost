@@ -2,9 +2,7 @@ genhost
 =======
 
 This script will randomly generate hostnames by picking words from the
-provided word list. The pool of words comes from Oren Tirosh's
-[mnemonic encoding](http://web.archive.org/web/20090918202746/http://tothink.com/mnemonic/wordlist.html)
-project.
+provided word list. 
 
 Usage
 -----
